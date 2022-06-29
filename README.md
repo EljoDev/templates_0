@@ -1,3 +1,3 @@
 # Eljo's Templates
 
-My templates in Node, HTML
+My templates in Node JS, HTML, CSS, JS, C, Python...
