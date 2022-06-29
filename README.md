@@ -1,2 +1,3 @@
-# templates_0
-My templates
+# Eljo's Templates
+
+My templates in Node, HTML
